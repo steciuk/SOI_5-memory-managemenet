@@ -1,5 +1,4 @@
 # SOI_5-worst-fit
-Memory managemenet - worst fit algorithm in Minix
 ## ROZWIĄZANIE PROBLEMU
 Zaimplementowałem algorytm WORST_FIT, umożliwiając użytkownikowi możliwość zmiany algorytmu alokacji pamięci oraz stworzyłem dwa dodatkowe wywołania systemowe wywołujące funkcje:  
 do_hole_map – zgdonie z poleceniem zwracające bufor wypełniony adresami i wielkościami wolnych w pamięci miejsc  
